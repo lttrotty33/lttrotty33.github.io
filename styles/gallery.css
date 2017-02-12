@@ -1,0 +1,76 @@
+/*Lakesha Trotty*/
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+    background-image: url("../images/tree2.jpg");
+    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-right: 75px;
+
+  }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+		width:  1450px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+  }
+  .page-header {
+    padding-top: 35px;
+    border-bottom: solid green;
+  }
+  main {
+  	padding-left: 10px;
+  	padding-right: 10px;
+  }
+  .navbar {
+    background-color: #F4A460;
+    height: auto;
+    width: auto;
+  }
+.dropdown {
+  color: green;
+}
+#footer p {
+    color: green;
+}
+
+h1  {
+  color: green;
+}
+a:focus, a:hover {
+	font-style: italic;
+  font-weight: bold;
+}
+.free {
+  padding-top: 600px;
+}
+.set2 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.set3 {
+  padding-bottom: 25px;
+}
+.set4 {
+  padding-left: 500px;
+}
+.set5 {
+  padding-top: 200px;
+}
+.set7 {
+padding-right: 25px;
+padding-top: 800px;
+}
+h6 {
+  color: green;
+}
+.set8 {
+  font-size: 10pt;
+  font-style: italic;
+}

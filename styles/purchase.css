@@ -1,0 +1,73 @@
+/*Lakesha Trotty*/
+/*FingerMonkey.css*/
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+    background-image: url("../images/tree2.jpg");
+    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+		width:  1450px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #FFDEAD;
+  }
+  .page-header {
+    padding-top: 35px;
+    border-bottom: solid black;
+    font-style: oblique;
+    font-family: fantasy;
+
+  }
+  main {
+  	padding-left: 10px;
+  	padding-right: 10px;
+  }
+  .navbar {
+    background-color: black;
+    height: auto;
+    width: auto;
+  }
+#footer p {
+    color: green;
+}
+h3 {
+  font-weight: bolder;
+  color: green;
+}
+.page-header h1 small {
+  color: green;
+}
+a:focus, a:hover {
+	font-style: italic;
+  font-weight: bold;
+}
+
+
+section p {
+  padding-bottom: 2em;
+margin-left: auto;
+}
+ol li {
+  font-style: italic;
+}
+.small {
+  color: green;
+  font-style: italic;
+  font-size: 10pt
+}
+.train {
+  float: right;
+}
+.love {
+  padding-right: 1em;
+  float: left;
+}

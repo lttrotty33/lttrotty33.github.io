@@ -1,0 +1,88 @@
+/*Lakesha Trotty*/
+/*FingerMonkey.css*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+    background-image: url("../images/tree2.jpg");
+    margin-bottom: 75px;
+    margin-top: 75px;
+    margin-left: 75px;
+    margin-right: 75px;
+
+  }
+  body {
+	  font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+		width:  1450px;
+    margin: auto;
+    padding: 15px 25px;
+    border: 10px solid black;
+    border-radius: 25px;
+    background-color: #556b2f;
+}
+
+a:focus, a:hover {
+	font-style: italic;
+  font-weight: bold;
+}
+.page-header {
+	padding: 1.5em 0 2em 0;
+	border: 3px solid black;
+  border-radius: 15px;
+	 background-image: -moz-linear-gradient(
+	    30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+	background-image: -webkit-linear-gradient(
+	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
+	background-image: -o-linear-gradient(
+	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
+	background-image: linear-gradient(
+	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
+}
+
+main {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*#para1 {
+  padding: 1em;
+  margin-bottom: 5px;
+}*/
+iframe{/*attemting to float the second paragraph to the right of the video*/
+	float: left;
+  border: 10px solid black;
+  border-radius: 25px;
+}
+section p {
+  padding-bottom: 1em;
+  font-size: 12pt;
+}
+.para2 {
+  padding-left: 25em;
+  padding-top: 5em;
+  font-size: 12pt;
+  font-weight: bold;
+}
+#footer p {
+  text-align: center;
+  color: white;
+
+}
+.navbar {
+  background-color: black;
+  height: auto;
+  width: auto;
+}
+#nav navbar_nav {
+  background-color: black;
+}
+footer {
+  padding-top: 25em;
+
+}
+
+
+/*also attemted to add a div tag to the second paragraph with a class name
+to change
